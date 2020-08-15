@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">PetGram</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Likes">0</string>
+    <string name="PetsFavs">Mascotas Favoritas</string>
+
+    <string name="pfoto">Fotos</string>
+    <string name="pnombre">Nombres</string>
+    <string name="plikes">Likes</string>
+
+    <string name="MascotasFavoritas">Favoritas</string>
+    <string name="AbrirMenu">MenuOpciones</string>
+    <string name="OpcionContactos">Contactos</string>
+    <string name="OpcionAcercade">Acerca de</string>
+    <string name="OpcionSalir">Salir</string>
+
+    <string name="NombreContacto">Nombre completo</string>
+    <string name="Correo">E-mail</string>
+    <string name="Mensaje">Mensaje</string>
+    <string name="Descripcion">Introduzca mensaje</string>
+    <string name="Formulario">Formulario de contacto</string>
+    <string name="BotonText">Enviar Comentario</string>
+
+    <string name="AcercaDe">Desarrollado por EddTP!!!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="NombrePet">Blastoise</string>
+</resources>
