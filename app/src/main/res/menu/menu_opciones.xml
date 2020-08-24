@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/acionFavoritos"
+        android:title="@string/MascotasFavoritas"
+        android:orderInCategory="1"
+        android:icon="@drawable/icons8_estrellafavs_blanco"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/acionContacto"
+        android:title="@string/OpcionContactos"
+        android:orderInCategory="2"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/acionAcercade"
+        android:title="@string/OpcionAcercade"
+        android:orderInCategory="3"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/actionSalir"
+        android:title="@string/OpcionSalir"
+        android:orderInCategory="4"
+        app:showAsAction="never"/>
+
+</menu>
